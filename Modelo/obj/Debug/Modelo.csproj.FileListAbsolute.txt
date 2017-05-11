@@ -1,0 +1,5 @@
+C:\Users\ariellugo\documents\visual studio 2013\Projects\CajeroIA\Modelo\bin\Debug\Modelo.dll
+C:\Users\ariellugo\documents\visual studio 2013\Projects\CajeroIA\Modelo\bin\Debug\Modelo.pdb
+C:\Users\ariellugo\documents\visual studio 2013\Projects\CajeroIA\Modelo\obj\Debug\Modelo.dll
+C:\Users\ariellugo\documents\visual studio 2013\Projects\CajeroIA\Modelo\obj\Debug\Modelo.pdb
+C:\Users\ariellugo\documents\visual studio 2013\Projects\CajeroIA\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache

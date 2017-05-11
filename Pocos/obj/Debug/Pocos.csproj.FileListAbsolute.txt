@@ -1,0 +1,5 @@
+C:\Users\ariellugo\documents\visual studio 2013\Projects\CajeroIA\Pocos\bin\Debug\Pocos.dll
+C:\Users\ariellugo\documents\visual studio 2013\Projects\CajeroIA\Pocos\bin\Debug\Pocos.pdb
+C:\Users\ariellugo\documents\visual studio 2013\Projects\CajeroIA\Pocos\obj\Debug\Pocos.csprojResolveAssemblyReference.cache
+C:\Users\ariellugo\documents\visual studio 2013\Projects\CajeroIA\Pocos\obj\Debug\Pocos.dll
+C:\Users\ariellugo\documents\visual studio 2013\Projects\CajeroIA\Pocos\obj\Debug\Pocos.pdb

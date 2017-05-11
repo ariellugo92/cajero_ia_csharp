@@ -1,0 +1,9 @@
+C:\Users\ariellugo\documents\visual studio 2013\Projects\CajeroIA\Controlador\bin\Debug\Controlador.dll
+C:\Users\ariellugo\documents\visual studio 2013\Projects\CajeroIA\Controlador\bin\Debug\Controlador.pdb
+C:\Users\ariellugo\documents\visual studio 2013\Projects\CajeroIA\Controlador\obj\Debug\Controlador.csprojResolveAssemblyReference.cache
+C:\Users\ariellugo\documents\visual studio 2013\Projects\CajeroIA\Controlador\obj\Debug\Controlador.dll
+C:\Users\ariellugo\documents\visual studio 2013\Projects\CajeroIA\Controlador\obj\Debug\Controlador.pdb
+C:\Users\ariellugo\documents\visual studio 2013\Projects\CajeroIA\Controlador\bin\Debug\Modelo.dll
+C:\Users\ariellugo\documents\visual studio 2013\Projects\CajeroIA\Controlador\bin\Debug\Pocos.dll
+C:\Users\ariellugo\documents\visual studio 2013\Projects\CajeroIA\Controlador\bin\Debug\Modelo.pdb
+C:\Users\ariellugo\documents\visual studio 2013\Projects\CajeroIA\Controlador\bin\Debug\Pocos.pdb
